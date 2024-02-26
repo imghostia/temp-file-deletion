@@ -1,8 +1,10 @@
-# temp-file-deletion
+# temp-files-deletion
 
 Welcome to my simple aumation task to protect your computer with unneccesary temporary files. 
 
 Step 1: Download this tempfiledel.py file(Assuming you have installed python).
+
+Note: Change the username. for example, del_dir2 = r'C:\Users\your-user-name\AppData\Local\Temp'
 
 Step 2: 
 
